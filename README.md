@@ -19,6 +19,7 @@ To use this custom keyboard layout:
 2. Import the JSON file into your preferred typing platform that supports custom layouts.
 3. A .TFL file is included in the JSON repository if you would rather begin typing right away with TypeFu!
 4. If you don't want to set anything up, simply download TFL and import it under TypeFu's Keyboard settings, no JSON required.
+5. A klc file is included in the JSON repository for advanced users, a .png file is included that shows lowercase and shift states.
 
 ## Usage
 

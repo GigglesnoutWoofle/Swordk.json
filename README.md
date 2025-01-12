@@ -32,6 +32,18 @@ To use this custom keyboard layout:
 
 Make sure to Follow the instructions on your chosen platform to switch to the custom layout.
 
+## macOS and iOS Users
+If you're using macOS or iOS, you can try the following tools to set up the Swordk custom keyboard layout:
+- **Karabiner-Elements (macOS)**: A powerful tool for keyboard customization. [Download Karabiner-Elements](https://karabiner-elements.pqrs.org/)
+- **Ukelele (macOS)**: Create custom keyboard layouts for macOS. [Download Ukelele](http://scripts.sil.org/ukelele)
+- **Custom Keyboard Apps (iOS)**:
+  - **MyKeyboard - Custom Keyboard**: Allows extensive customization of your iOS keyboard. [MyKeyboard on the App Store](https://apps.apple.com/us/app/mykeyboard-custom-keyboard/id1455404109)
+  - **Typewise Custom Keyboard**: Offers a unique hexagon layout to reduce typos and provides an intuitive typing experience. [Typewise on the App Store](https://apps.apple.com/us/app/typewise-custom-keyboard/id1470215025)
+  - **xKeyboard - Custom Keyboard**: Create custom layouts, keys, symbols, and Unicode. [xKeyboard on the App Store](https://apps.apple.com/us/app/xkeyboard-custom-keyboard/id1440245962)
+
+If you successfully configure the layout, please consider contributing your setup or sharing your experience!
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.

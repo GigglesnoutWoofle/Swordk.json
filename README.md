@@ -34,7 +34,7 @@ Feel free to open issues or pull requests if you have suggestions or improvement
 
 ## Acknowledgments
 
-Special thanks to the typing communities and platforms like KeyBR and Monkeytype for providing support and inspiration.
+Special thanks to the typing communities and platforms like KeyBR, Monkeytype and TypeFu for providing support and inspiration.
 
 ---
 

@@ -15,7 +15,7 @@ This JSON file represents a unique keyboard layout where keys are mapped differe
 
 To use this custom keyboard layout:
 
-1. Download the `Swordk.json` file from this repository.
+1. Download the `Swordk_map.json` file from this repository.
 2. Import the JSON file into your preferred typing platform that supports custom layouts.
 
 ## Notes On Other Files 

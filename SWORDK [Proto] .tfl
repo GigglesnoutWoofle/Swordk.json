@@ -1,0 +1,295 @@
+{
+  "id": "custom-25b04f2e-9020-4da4-bc8b-8e33d2f8cd15",
+  "name": "SWORDK [Proto] ",
+  "version": 1,
+  "keys": {
+    "Space": {
+      "default": {
+        "base": " "
+      }
+    },
+    "Backquote": {
+      "default": {
+        "base": "`",
+        "shift": "~"
+      }
+    },
+    "Digit1": {
+      "default": {
+        "base": "5",
+        "shift": "%"
+      }
+    },
+    "Digit2": {
+      "default": {
+        "base": "4",
+        "shift": "$"
+      }
+    },
+    "Digit3": {
+      "default": {
+        "base": "3",
+        "shift": "#"
+      }
+    },
+    "Digit4": {
+      "default": {
+        "base": "2",
+        "shift": "@"
+      }
+    },
+    "Digit5": {
+      "default": {
+        "base": "1",
+        "shift": "!"
+      }
+    },
+    "Digit6": {
+      "default": {
+        "base": "-",
+        "shift": "_"
+      }
+    },
+    "Digit7": {
+      "default": {
+        "base": "=",
+        "shift": "+"
+      }
+    },
+    "Digit8": {
+      "default": {
+        "base": "0",
+        "shift": ")"
+      }
+    },
+    "Digit9": {
+      "default": {
+        "base": "6",
+        "shift": "^"
+      }
+    },
+    "Digit0": {
+      "default": {
+        "base": "7",
+        "shift": "&"
+      }
+    },
+    "Minus": {
+      "default": {
+        "base": "8",
+        "shift": "*"
+      }
+    },
+    "Equal": {
+      "default": {
+        "base": "9",
+        "shift": "("
+      }
+    },
+    "KeyQ": {
+      "default": {
+        "base": "s",
+        "shift": "S"
+      }
+    },
+    "KeyW": {
+      "default": {
+        "base": "w",
+        "shift": "W"
+      }
+    },
+    "KeyE": {
+      "default": {
+        "base": "o",
+        "shift": "O"
+      }
+    },
+    "KeyR": {
+      "default": {
+        "base": "r",
+        "shift": "R"
+      }
+    },
+    "KeyT": {
+      "default": {
+        "base": "d",
+        "shift": "D"
+      }
+    },
+    "KeyY": {
+      "default": {
+        "base": "k",
+        "shift": "K"
+      }
+    },
+    "KeyU": {
+      "default": {
+        "base": "y",
+        "shift": "Y"
+      }
+    },
+    "KeyI": {
+      "default": {
+        "base": "u",
+        "shift": "U"
+      }
+    },
+    "KeyO": {
+      "default": {
+        "base": "p",
+        "shift": "P"
+      }
+    },
+    "KeyP": {
+      "default": {
+        "base": "q",
+        "shift": "Q"
+      }
+    },
+    "BracketLeft": {
+      "default": {
+        "base": "/",
+        "shift": "?"
+      }
+    },
+    "BracketRight": {
+      "default": {
+        "base": "'",
+        "shift": "\""
+      }
+    },
+    "KeyA": {
+      "default": {
+        "base": "t",
+        "shift": "T"
+      }
+    },
+    "KeyS": {
+      "default": {
+        "base": "h",
+        "shift": "H"
+      }
+    },
+    "KeyD": {
+      "default": {
+        "base": "e",
+        "shift": "E"
+      }
+    },
+    "KeyF": {
+      "default": {
+        "base": "a",
+        "shift": "A"
+      }
+    },
+    "KeyG": {
+      "default": {
+        "base": "f",
+        "shift": "F"
+      }
+    },
+    "KeyH": {
+      "default": {
+        "base": ",",
+        "shift": "<"
+      }
+    },
+    "KeyJ": {
+      "default": {
+        "base": "l",
+        "shift": "L"
+      }
+    },
+    "KeyK": {
+      "default": {
+        "base": "g",
+        "shift": "G"
+      }
+    },
+    "KeyL": {
+      "default": {
+        "base": "i",
+        "shift": "I"
+      }
+    },
+    "Semicolon": {
+      "default": {
+        "base": "n",
+        "shift": "N"
+      }
+    },
+    "Quote": {
+      "default": {
+        "base": ";",
+        "shift": ":"
+      }
+    },
+    "Backslash": {
+      "default": {
+        "base": "\\",
+        "shift": "|"
+      }
+    },
+    "KeyZ": {
+      "default": {
+        "base": "m",
+        "shift": "M"
+      }
+    },
+    "KeyX": {
+      "default": {
+        "base": "x",
+        "shift": "X"
+      }
+    },
+    "KeyC": {
+      "default": {
+        "base": "c",
+        "shift": "C"
+      }
+    },
+    "KeyV": {
+      "default": {
+        "base": "v",
+        "shift": "V"
+      }
+    },
+    "KeyB": {
+      "default": {
+        "base": "b",
+        "shift": "B"
+      }
+    },
+    "KeyN": {
+      "default": {
+        "base": "j",
+        "shift": "J"
+      }
+    },
+    "KeyM": {
+      "default": {
+        "base": ".",
+        "shift": ">"
+      }
+    },
+    "Comma": {
+      "default": {
+        "base": "z",
+        "shift": "Z"
+      }
+    },
+    "Period": {
+      "default": {
+        "base": "[",
+        "shift": "{"
+      }
+    },
+    "Slash": {
+      "default": {
+        "base": "]",
+        "shift": "}"
+      }
+    }
+  },
+  "description": "A keyboard layout from a dream made reality. "
+}

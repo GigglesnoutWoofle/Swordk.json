@@ -27,6 +27,7 @@ To use this custom keyboard layout:
 - Included XML
 - Included XML CLDR LDML
 - Included HTML
+- Included YML
 
 ## Usage
 
